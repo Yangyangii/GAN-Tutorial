@@ -1,5 +1,7 @@
 # GANs Tutorial
-Implementation of GANs, DCGANs, CGANs, WGANs, and etc. with PyTorch for only MNIST
+Very simple implementation of GANs, DCGANs, CGANs, WGANs, and etc. with PyTorch for only MNIST.
+
+You can run it immediately at Jupyter Notebook.
 
 ## Requirements
 >* python 3.6 (Anaconda)
