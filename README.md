@@ -15,6 +15,7 @@ You can run it immediately at Jupyter Notebook.
 >* [Wasserstain GANs with MLP](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/W-GAN(MLP).ipynb)
 >* [Wasserstain GANs with DCGAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/W-GAN(DCGAN).ipynb)
 >* [WGAN-gp with MLP](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/WGAN-GP.ipynb)
+>* [infoGANs](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/infoGAN.ipynb)
 
 ## Experimental Samples
 Coming soon.
