@@ -5,7 +5,7 @@ You can run it immediately at Jupyter Notebook.
 
 ## Requirements
 >* python 3.6 (Anaconda)
->* pytorch 0.3.1
+>* pytorch 0.4.0 (updated from 0.3.1)
 
 ## Implementation List
 **GANs**
@@ -18,4 +18,4 @@ You can run it immediately at Jupyter Notebook.
 >* [infoGANs](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/infoGAN.ipynb)
 
 ## Experimental Samples
-Coming soon.
+Coming soon. (You can see the sampels at ipynbs)
