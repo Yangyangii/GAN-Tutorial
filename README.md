@@ -17,7 +17,7 @@ You can run it immediately at Jupyter Notebook.
 >* [infoGANs](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/infoGAN.ipynb)
 
 ## Experimental Samples
-You can see the sampels at ipynbs.
+You can see the samples at ipynbs.
 
 ### Vanilla GANs
 ![Vanilla GANs](/images/VanillaGAN.jpg "Optional title")
