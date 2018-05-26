@@ -12,7 +12,6 @@ You can run it immediately at Jupyter Notebook.
 >* [Vanilla GANs](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/Simple_GANs.ipynb)
 >* [Conditional GANs](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/Conditional_GANs.ipynb)
 >* [DC GANs](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/DCGAN.ipynb)
->* [Wasserstain GANs with MLP](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/W-GAN(MLP).ipynb)
 >* [Wasserstain GANs with DCGAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/W-GAN(DCGAN).ipynb)
 >* [WGAN-gp with MLP](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/WGAN-GP.ipynb)
 >* [infoGANs](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/infoGAN.ipynb)
