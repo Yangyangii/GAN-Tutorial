@@ -17,4 +17,22 @@ You can run it immediately at Jupyter Notebook.
 >* [infoGANs](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/infoGAN.ipynb)
 
 ## Experimental Samples
-Coming soon. (You can see the sampels at ipynbs)
+You can see the sampels at ipynbs.
+
+### Vanilla GANs
+![Vanilla GANs](/images/VanillaGAN.jpg "Optional title")
+
+### Conditional GANs
+![Conditional GANs](/images/CGAN.jpg "Optional title")
+
+### DC GANs
+![DC GANs](/images/DCGAN.jpg "Optional title")
+
+### WGAN-gp with MLP
+![WGAN-gp with MLP](/images/WGAN-gp.jpg "Optional title")
+
+### infoGANs w/ walking code 1
+![infoGANs](/images/infoGAN_type1.jpg "Optional title")
+
+### infoGANs w/ walking code 2
+![infoGANs](/images/infoGAN_type2.jpg "Optional title")
