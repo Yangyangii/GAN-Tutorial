@@ -1,38 +1,39 @@
 # GANs Tutorial
 Very simple implementation of GANs, DCGANs, CGANs, WGANs, and etc. with PyTorch for only MNIST.
 
-You can run it immediately at Jupyter Notebook.
+You can run it immediately at Jupyter Notebook. And actually you can also run these codes by using Google Colab immediately!
 
 ## Requirements
 >* python 3.6 (Anaconda)
->* pytorch 0.4.0 (updated from 0.3.1)
+>* pytorch 1.0.0 (updated from 0.4.0. If you want to use the previous version, then find previous commit.)
 
 ## Implementation List
-**GANs**
->* [Vanilla GANs](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/Simple_GANs.ipynb)
->* [Conditional GANs](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/Conditional_GANs.ipynb)
->* [DC GANs](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/DCGAN.ipynb)
->* [Wasserstain GANs with DCGAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/W-GAN(DCGAN).ipynb)
->* [WGAN-gp with MLP](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/WGAN-GP.ipynb)
->* [infoGANs](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/infoGAN.ipynb)
+### **GANs**
+>* [Vanilla GAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/VanillaGAN.ipynb)
+>* [Conditional GANs](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/Conditional-GAN.ipynb)
+>* [DCGAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/DCGAN.ipynb)
+>* [Wasserstain GAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/W-GAN.ipynb)
+>* [WGAN-gp](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/WGAN-GP.ipynb)
+>* [infoGAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/infoGAN.ipynb)
 
 ## Experimental Samples
-You can see the samples at ipynbs.
+- You can see the samples at ipynbs.
+- After DCGAN, DCGAN with condition is a base model.
 
-### Vanilla GANs
-![Vanilla GANs](/images/VanillaGAN.jpg "Optional title")
+### Vanilla GAN
+![Vanilla GAN](/images/Vanilla-GAN.gif "Optional title")
 
-### Conditional GANs
-![Conditional GANs](/images/CGAN.jpg "Optional title")
+### Conditional GAN
+![Conditional GAN](/images/Conditional-GAN.gif "Optional title")
 
-### DC GANs
-![DC GANs](/images/DCGAN.jpg "Optional title")
+### DC GAN
+![DCGAN](/images/Conditional-DCGAN.gif "Optional title")
 
-### WGAN-gp with MLP
-![WGAN-gp with MLP](/images/WGAN-gp.jpg "Optional title")
+### WGAN-gp
+![WGAN-gp](/images/WGAN-gp.gif "Optional title")
 
-### infoGANs w/ walking code 1
-![infoGANs](/images/infoGAN_type1.jpg "Optional title")
+### infoGAN w/ walking code 1
+![infoGAN](/images/infoGAN_type1.jpg "Optional title")
 
-### infoGANs w/ walking code 2
-![infoGANs](/images/infoGAN_type2.jpg "Optional title")
+### infoGAN w/ walking code 2
+![infoGAN](/images/infoGAN_type2.jpg "Optional title")
