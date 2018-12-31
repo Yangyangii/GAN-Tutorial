@@ -1,7 +1,7 @@
 # GANs Tutorial
 Very simple implementation of GANs, DCGANs, CGANs, WGANs, and etc. with PyTorch for only MNIST.
 
-You can run it immediately at Jupyter Notebook. And actually you can also run these codes by using Google Colab immediately!
+You can run the code at Jupyter Notebook. And actually you can also run these codes by using Google Colab immediately!
 
 ## Requirements
 >* python 3.6 (Anaconda)
@@ -40,4 +40,7 @@ You can run it immediately at Jupyter Notebook. And actually you can also run th
 ![infoGAN](/images/infoGAN_type2.jpg "Optional title")
 
 ## Colab
+- [https://colab.research.google.com](https://colab.research.google.com)
+- You can run it with GPU(K80) Runtime mode
+- Training Vanilla GAN takes only 10 minutes.
 ![Colab](/images/colab-usage.JPG "Optional title")
