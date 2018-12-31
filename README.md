@@ -38,3 +38,6 @@ You can run it immediately at Jupyter Notebook. And actually you can also run th
 
 ### infoGAN w/ walking code 2
 ![infoGAN](/images/infoGAN_type2.jpg "Optional title")
+
+## Colab
+![Colab](/images/colab-usage.JPG "Optional title")
