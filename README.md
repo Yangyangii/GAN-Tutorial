@@ -19,6 +19,7 @@ You can run it immediately at Jupyter Notebook. And actually you can also run th
 ## Experimental Samples
 - You can see the samples at ipynbs.
 - After DCGAN, DCGAN with condition is a base model.
+- Trained 30 epochs respectively.
 
 ### Vanilla GAN
 ![Vanilla GAN](/images/Vanilla-GAN.gif "Optional title")
