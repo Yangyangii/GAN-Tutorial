@@ -8,16 +8,22 @@ You can run the code at Jupyter Notebook. And actually you can also run these co
 >* pytorch 1.0.0 (updated from 0.4.0. If you want to use the previous version, then find previous commit.)
 
 ## Implementation List
-### **GANs**
->* [Vanilla GAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/VanillaGAN.ipynb)
->* [Conditional GANs](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/Conditional-GAN.ipynb)
->* [DCGAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/DCGAN.ipynb)
->* [Wasserstain GAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/W-GAN.ipynb)
->* [WGAN-gp](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/WGAN-GP.ipynb)
->* [infoGAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/Notebooks/infoGAN.ipynb)
+#### MNIST
+>* [Vanilla GAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/MNIST/VanillaGAN.ipynb)
+>* [Conditional GANs](https://github.com/Yangyangii/GAN-Tutorial/blob/master/MNIST/Conditional-GAN.ipynb)
+>* [DCGAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/MNIST/DCGAN.ipynb)
+>* [Wasserstain GAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/MNIST/W-GAN.ipynb)
+>* [WGAN-gp](https://github.com/Yangyangii/GAN-Tutorial/blob/master/MNIST/WGAN-GP.ipynb)
+>* [infoGAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/MNIST/infoGAN.ipynb)
 
-## Experimental Samples
-- You can see the samples at ipynbs.
+#### CARS (Stanford dataset)
+>* you can download the dataset from [https://ai.stanford.edu/~jkrause/cars/car_dataset.html](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
+>* [DCGAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/CARS/DCGAN.ipynb)
+
+
+
+## Experimental Results
+- You can also see the samples at ipynbs.
 - After DCGAN, DCGAN with condition is a base model.
 - Trained 30 epochs respectively.
 
