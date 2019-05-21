@@ -28,22 +28,22 @@ You can run the code at Jupyter Notebook. And actually you can also run these co
 - Trained 30 epochs respectively.
 
 ### Vanilla GAN
-![Vanilla GAN](/images/Vanilla-GAN.gif "Optional title")
+<img src="/images/Vanilla-GAN.gif" width="200" height="200" />
 
 ### Conditional GAN
-![Conditional GAN](/images/Conditional-GAN.gif "Optional title")
+<img src="/images/Conditional-GAN.gif" width="200" height="200" />
 
 ### DC GAN
-![DCGAN](/images/Conditional-DCGAN.gif "Optional title")
+<img src="/images/Conditional-DCGAN.gif" width="200" height="200" />
 
 ### WGAN-gp
-![WGAN-gp](/images/WGAN-gp.gif "Optional title")
+<img src="/images/WGAN-gp.gif" width="200" height="200" />
 
 ### infoGAN w/ walking code 1
-![infoGAN](/images/infoGAN_type1.jpg "Optional title")
+<img src="/images/infoGAN_type1.jpg" width="200" height="200" />
 
 ### infoGAN w/ walking code 2
-![infoGAN](/images/infoGAN_type2.jpg "Optional title")
+<img src="/images/infoGAN_type2.jpg" width="200" height="200" />
 
 ## Colab
 - [https://colab.research.google.com](https://colab.research.google.com)
