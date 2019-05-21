@@ -1,4 +1,7 @@
-Notebooks/runs
-Notebooks/samples
-Notebooks/.ipynb_checkpoints
+MNIST/runs
+MNIST/samples
+MNIST/.ipynb_checkpoints
+CARS/runs
+CARS/samples
+CARS/.ipynb_checkpoints
 data
