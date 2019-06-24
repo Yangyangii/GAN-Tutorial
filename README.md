@@ -19,7 +19,11 @@ You can run the code at Jupyter Notebook. And actually you can also run these co
 #### CARS (Stanford dataset)
 >* you can download the dataset from [https://ai.stanford.edu/~jkrause/cars/car_dataset.html](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
 >* [DCGAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/CARS/DCGAN.ipynb)
+>* But I think the dataset is small and needs preprocessing a lot.
 
+#### CelebA (aligned dataset)
+>* you can download the dataset from [http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+>* [BEGAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/CelebA/BEGAN.ipynb)
 
 
 ## Experimental Results
@@ -44,6 +48,12 @@ You can run the code at Jupyter Notebook. And actually you can also run these co
 
 ### infoGAN w/ walking code 2
 <img src="/images/infoGAN_type2.jpg" width="200" height="200" />
+
+### BEGAN random samples
+<img src="/images/BEGAN.jpg" width="200" height="200" />
+
+### BEGAN interpolation
+<img src="/images/interpolation.jpg" width="200" height="200" />
 
 ## Colab
 - [https://colab.research.google.com](https://colab.research.google.com)
