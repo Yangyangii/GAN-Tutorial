@@ -53,7 +53,7 @@ You can run the code at Jupyter Notebook. And actually you can also run these co
 <img src="/images/BEGAN.jpg" width="200" height="200" />
 
 ### BEGAN interpolation
-<img src="/images/interpolation.jpg" width="200" height="200" />
+<img src="/images/interpolation.jpg" width="800" height="100" />
 
 ## Colab
 - [https://colab.research.google.com](https://colab.research.google.com)
