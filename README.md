@@ -3,6 +3,8 @@ Very simple implementation of GANs, DCGANs, CGANs, WGANs, and etc. with PyTorch 
 
 You can run the code at Jupyter Notebook. And actually you can also run these codes by using Google Colab immediately!
 
+Sometimes ipynb files do not work in Github, please clone and run it in your server.
+
 ## Requirements
 >* python 3.6 (Anaconda)
 >* pytorch 1.0.0 (updated from 0.4.0. If you want to use the previous version, then find previous commit.)
