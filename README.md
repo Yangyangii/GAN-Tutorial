@@ -1,7 +1,7 @@
 # GANs Tutorial
-Very simple implementation of GANs, DCGANs, CGANs, WGANs, and etc. with PyTorch for only MNIST.
+Very simple implementation of GANs, DCGANs, CGANs, WGANs, and etc. with PyTorch for various dataset (MNIST, CARS, CelebA).
 
-You can run the code at Jupyter Notebook. And actually you can also run these codes by using Google Colab immediately!
+You can run the code at Jupyter Notebook. And actually you can also run these codes by using Google Colab immediately (needed downloading some dataset)!
 
 Sometimes ipynb files do not work in Github, please clone and run it in your server.
 
@@ -51,8 +51,8 @@ Sometimes ipynb files do not work in Github, please clone and run it in your ser
 ### infoGAN w/ walking code 2
 <img src="/images/infoGAN_type2.jpg" width="200" height="200" />
 
-### BEGAN random samples
-<img src="/images/BEGAN.jpg" width="200" height="200" />
+### BEGAN random samples (20 epochs)
+<img src="/images/BEGAN.jpg" width="400" height="400" />
 
 ### BEGAN interpolation
 <img src="/images/interpolation.jpg" width="800" height="100" />
