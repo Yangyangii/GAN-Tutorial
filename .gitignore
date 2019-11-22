@@ -1,7 +1,7 @@
-MNIST/runs
-MNIST/samples
-MNIST/.ipynb_checkpoints
-CARS/runs
-CARS/samples
-CARS/.ipynb_checkpoints
+*/.ipynb_checkpoints
+*/__pycache__
+*/ckpt
+*/samples
+*/*bak
 data
+.ipynb_checkpoints

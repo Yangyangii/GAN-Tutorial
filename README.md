@@ -26,6 +26,7 @@ Sometimes ipynb files do not work in Github, please clone and run it in your ser
 #### CelebA (aligned dataset)
 >* you can download the dataset from [http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 >* [BEGAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/CelebA/BEGAN.ipynb)
+>* [R1GAN](https://github.com/Yangyangii/GAN-Tutorial/blob/master/CelebA/R1GAN.ipynb)
 
 
 ## Experimental Results
@@ -56,6 +57,12 @@ Sometimes ipynb files do not work in Github, please clone and run it in your ser
 
 ### BEGAN interpolation
 <img src="/images/interpolation.jpg" width="800" height="100" />
+
+### GAN with R1 regularization random samples (20 epochs)
+<img src="/images/R1GAN.jpg" width="400" height="400" />
+
+### GAN with R1 regularization interpolation
+<img src="/images/R1GAN-interp.jpg" width="800" height="100" />
 
 ## Colab
 - [https://colab.research.google.com](https://colab.research.google.com)
