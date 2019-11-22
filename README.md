@@ -60,6 +60,7 @@ Sometimes ipynb files do not work in Github, please clone and run it in your ser
 
 ### GAN with R1 regularization random samples (20 epochs)
 <img src="/images/R1GAN.jpg" width="400" height="400" />
+<img src="/images/R1GAN.jpg" width="200" height="200" />
 
 ### GAN with R1 regularization interpolation
 <img src="/images/R1GAN-interp.jpg" width="800" height="100" />
